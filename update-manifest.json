@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24T08:47:10.139Z",
+  "updatedAt": "2026-04-24T08:59:43.631Z",
   "pageUrl": "https://github.com/Ppppan9/douyin-watermark-parser-release",
   "apps": {
     "desktop": {
-      "version": "0.4.5",
-      "fileName": "抖音视频解析下载工具-Setup-0.4.5.exe",
-      "url": "https://raw.githubusercontent.com/Ppppan9/douyin-watermark-parser-release/main/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7-Setup-0.4.5.exe",
+      "version": "0.4.6",
+      "fileName": "抖音视频解析下载工具-Setup-0.4.6.exe",
+      "url": "https://raw.githubusercontent.com/Ppppan9/douyin-watermark-parser-release/main/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90%E4%B8%8B%E8%BD%BD%E5%B7%A5%E5%85%B7-Setup-0.4.6.exe",
       "pageUrl": "https://github.com/Ppppan9/douyin-watermark-parser-release",
       "notes": "主工具更新包"
     },
     "licenseAdmin": {
-      "version": "0.4.5",
-      "fileName": "抖音注册码生成器-Setup-0.4.5.exe",
+      "version": "0.4.6",
+      "fileName": "抖音注册码生成器-Setup-0.4.6.exe",
       "private": true,
       "pageUrl": "https://github.com/Ppppan9/douyin-watermark-parser-source/tree/main/private-release/license-admin",
       "notes": "注册码生成器更新包在私有源码仓库中"
