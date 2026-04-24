@@ -1,18 +1,18 @@
 {
   "version": 1,
   "enabled": true,
-  "requireKnownLicenses": false,
+  "requireKnownLicenses": true,
   "updatedAt": "2026-04-24T00:00:00.000Z",
   "message": "online license registry is active",
   "revokedLicenseIds": [],
   "revokedMachineCodes": [],
   "licenses": {
     "replace-with-license-id": {
-      "status": "active",
-      "machineCode": "replace-with-machine-code",
+      "status": "unused",
+      "machineCode": "",
       "productCode": "douyin-desktop",
       "expiresAt": "",
-      "message": "active"
+      "message": "unused, bind on first activation"
     }
   }
 }
